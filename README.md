@@ -7,6 +7,12 @@
 [![](https://img.shields.io/badge/Made_With-OpenCV-green?style=for-the-badge&logo=opencv)](https://opencv.org/)
 [![](https://img.shields.io/badge/IDE-Visual_Studio_Code-red?style=for-the-badge&logo=visual-studio-code)](https://code.visualstudio.com/ "Visual Studio Code")
 
+<br />
+
+
+[![](https://img.shields.io/github/forks/shahshubh/CampusCar-Server.svg?style=for-the-badge)](https://github.com/shahshubh/CampusCar-Server/network/members)
+[![](https://img.shields.io/github/stars/shahshubh/CampusCar-Server.svg?style=for-the-badge)](https://github.com/shahshubh/CampusCar-Server/stargazers)
+
 </div>
 
 Vehicle License Plate Recognition using OpenCV and Tesseract.
